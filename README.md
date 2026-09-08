@@ -51,4 +51,4 @@
 
 </div>
 
-All security research and testing is conducted only in legal, educational, CTF, laboratory, or explicitly authorised environments.
+All security testing and research is conducted only in legal, authorised laboratory, CTF, or educational environments.
