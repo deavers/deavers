@@ -29,7 +29,7 @@
 |---|---|---|
 | [fast-forensic-triage-extractor](https://github.com/deavers/fast-forensic-triage-extractor) | Cross-platform forensic live-response triage collector, plugin architecture | C++20 · WinAPI · /proc |
 | [Reverse-Engineering-Journey](https://github.com/deavers/Reverse-Engineering-Journey) | Documented RE experiments — low-level binary analysis | Ghidra · gdb · C |
-| [L2C2-Study-Server](https://github.com/deavers/L2C2-Study-Server) | Minimal game-server emulator to study OS & networking | C++ |
+| [L2C2-Study-Server](https://github.com/deavers/L2C2-Study-Server) | Minimal Lineage 2 Classic C2 server emulator for studying networking and OS concepts | C++ |
 | [Bulanci-Kitty](https://github.com/deavers/Bulanci-Kitty) | 2D shooter with AI bots — university project | C · SDL2 |
 | [InvScan](https://github.com/deavers/InvScan) | Android inventory scanner, ML Kit OCR (college diploma) | Java · Laravel |
 
