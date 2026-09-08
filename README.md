@@ -50,3 +50,5 @@
 [![Ostrava, CZ](https://img.shields.io/badge/Ostrava%2C%20CZ-1e1e2e?style=flat-square&logo=googlemaps&logoColor=a6e3a1)](https://www.google.com/maps/place/Ostrava)
 
 </div>
+
+All security research and testing is conducted only in legal, educational, CTF, laboratory, or explicitly authorised environments.
