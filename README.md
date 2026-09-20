@@ -9,7 +9,7 @@
 
 **Cybersecurity · Digital Forensics · Reverse Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=560&lines=3rd-year+CS+%40+V%C5%A0B-TUO+%28FEI%29%2C+Ostrava;building+forensic+tools+in+C%2FC%2B%2B;SC-900+%E2%86%92+ISC2+CC+%E2%86%92+Security%2B" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=560&lines=3rd-year+CS+%40+V%C5%A0B-TUO+%28FEI%29%2C+Ostrava;building+forensic+tools+in+C%2FC%2B%2B;ISC2+CC+%E2%86%92+Security%2B" alt="intro" />
 
 </div>
 
