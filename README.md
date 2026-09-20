@@ -20,7 +20,7 @@
 - 3rd-year **Computer Science** student at **VŠB-TUO (FEI)**, Ostrava
 - Study plan deliberately built around security: cryptography, digital forensics, network security
 - I build security tools in **C/C++** and document reverse-engineering work in public
-- Certs: Cisco Intro to Cybersecurity · IBM Cybersecurity Fundamentals · UNDP InfoSec — now **SC-900** (Sep 2026), **ISC2 CC** (Dec 2026), then **Security+**
+- Certs: Cisco Intro to Cybersecurity · IBM Cybersecurity Fundamentals · UNDP InfoSec — **ISC2 CC** (Dec 2026), then **Security+**
 - Languages: Kazakh/Russian (native), Czech (B2), English (B2)
 
 ### Selected work
